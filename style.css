@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    letter-spacing: 2px;
+}
+
+.row {
+    height: 6vh;
+    display: flex;
+
+}
+
+.header-logo {
+    display: inline-block;
+    background-color: #59FBC9;
+    width: 33.3%;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 1rem;
+
+
+}
+
+.header-menu {
+    display: inline-block;
+    background-color: #34AAF3;
+    width: 66.6%;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 1rem;
+
+
+}
+
+.banner {
+    height: 19vh;
+    background-color: #ff0000;
+    color: white;
+    text-align: center;
+    padding: 60px;
+    font-weight: 600;
+    font-size: 1rem;
+    
+}
+
+.row2 {
+    height: 56vh;
+    display: flex;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.col-1 {
+    background-color:#ADFF2F;
+    width: 33.3%;
+    color: white;
+    text-align: center;
+    font-size:larger;
+    padding: 5px;
+}
+.row3 {
+    height: 7vh;
+    display: flex;
+    font-weight: 600;
+    font-size: 1rem;
+    
+}
+
+.col-4 {
+    background-color: #ff6347;
+    height: 7vh;
+    color: white;
+    width: 33%;
+    text-align: center;
+    padding: 1.5rem;
+    border-left: 4px solid gray;
+    
+}
+.col-2 {
+    border-left: 4px solid gray;
+    border-right: 4px solid gray;
+}
+
+.col-5 {
+   width: 66%;
+}
+
+footer {
+    height: 12vh;
+    background-color: #ff28fb;
+    /* text-align: center; */
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+
+
+
